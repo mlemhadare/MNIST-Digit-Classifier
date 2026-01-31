@@ -1,0 +1,6 @@
+best_model.pth
+*.db
+*.pyc
+data/
+mlflow.db
+mlruns/
